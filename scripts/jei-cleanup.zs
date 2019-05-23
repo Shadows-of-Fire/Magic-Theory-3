@@ -313,7 +313,6 @@ JEI.removeAndHide(<twilightforest:stone_twist>);
 JEI.removeAndHide(<twilightforest:stone_twist_thin>);
 JEI.removeAndHide(<projecte:item.pe_fire_projectile>);
 JEI.removeAndHide(<projecte:item.pe_wind_projectile>);
-JEI.removeAndHide(<retrobees:beecomb:5>);
 JEI.removeAndHide(<thaumicrestoration:item_lighter>);
 JEI.removeAndHide(<chisel:bloodmagic:*>);
 JEI.removeAndHide(<thaumicbases:voidplant>);
@@ -334,7 +333,10 @@ JEI.removeAndHide(<twilightforest:time_door>);
 JEI.removeAndHide(<twilightforest:trans_door>);
 JEI.removeAndHide(<twilightforest:mine_door>);
 JEI.removeAndHide(<twilightforest:sort_door>);
-
+JEI.removeAndHide(<projecte:item.pe_water_orb>);
+JEI.removeAndHide(<projecte:item.pe_lava_orb>);
+JEI.removeAndHide(<projecte:item.pe_randomizer>);
+JEI.removeAndHide(<projecte:item.pe_lens_explosive>);
 
 
 

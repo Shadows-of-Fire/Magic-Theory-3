@@ -1,4 +1,4 @@
-12849 nodes in total
+13287 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -962,6 +962,9 @@ ftbutilities.claims.block.edit.climaticbiomesjbg.pine_planks: OP
 ftbutilities.claims.block.edit.climaticbiomesjbg.pine_sapling: OP
 ftbutilities.claims.block.edit.climaticbiomesjbg.pine_slab: OP
 ftbutilities.claims.block.edit.climaticbiomesjbg.pine_stairs: OP
+ftbutilities.claims.block.edit.conarm.armorforge: OP
+ftbutilities.claims.block.edit.conarm.armorstation: OP
+ftbutilities.claims.block.edit.conarm.soft_obsidian: OP
 ftbutilities.claims.block.edit.corvus.blazing_tulip: OP
 ftbutilities.claims.block.edit.corvus.blood_rose: OP
 ftbutilities.claims.block.edit.corvus.bloom_of_death: OP
@@ -1822,6 +1825,8 @@ ftbutilities.claims.block.edit.immersiveengineering.metal_device0: OP
 ftbutilities.claims.block.edit.immersiveengineering.metal_device1: OP
 ftbutilities.claims.block.edit.immersiveengineering.metal_ladder: OP
 ftbutilities.claims.block.edit.immersiveengineering.metal_multiblock: OP
+ftbutilities.claims.block.edit.immersiveengineering.molten_constantan: OP
+ftbutilities.claims.block.edit.immersiveengineering.molten_uranium: OP
 ftbutilities.claims.block.edit.immersiveengineering.ore: OP
 ftbutilities.claims.block.edit.immersiveengineering.sheetmetal: OP
 ftbutilities.claims.block.edit.immersiveengineering.sheetmetal_slab: OP
@@ -2229,7 +2234,15 @@ ftbutilities.claims.block.edit.naturesaura.rf_converter: OP
 ftbutilities.claims.block.edit.naturesaura.spawn_lamp: OP
 ftbutilities.claims.block.edit.naturesaura.time_changer: OP
 ftbutilities.claims.block.edit.naturesaura.wood_stand: OP
+ftbutilities.claims.block.edit.plustic.alumiteblock: OP
+ftbutilities.claims.block.edit.plustic.invarblock: OP
+ftbutilities.claims.block.edit.plustic.plustic.molten_alumite: OP
+ftbutilities.claims.block.edit.plustic.plustic.molten_invar: OP
+ftbutilities.claims.block.edit.plustic.plustic.molten_iridium: OP
+ftbutilities.claims.block.edit.plustic.plustic.molten_thaumium: OP
 ftbutilities.claims.block.edit.progressivealchemy.condensertiered_1: OP
+ftbutilities.claims.block.edit.progressivealchemy.condensertiered_2: OP
+ftbutilities.claims.block.edit.progressivealchemy.condensertiered_3: OP
 ftbutilities.claims.block.edit.projecte.alchemical_chest: OP
 ftbutilities.claims.block.edit.projecte.collector_mk1: OP
 ftbutilities.claims.block.edit.projecte.collector_mk2: OP
@@ -3088,6 +3101,114 @@ ftbutilities.claims.block.edit.soot.sulfur_ore: OP
 ftbutilities.claims.block.edit.soot.wrought_platform: OP
 ftbutilities.claims.block.edit.soot.wrought_platform_slab: OP
 ftbutilities.claims.block.edit.soot.wrought_tile: OP
+ftbutilities.claims.block.edit.tconstruct.blood: OP
+ftbutilities.claims.block.edit.tconstruct.blueslime: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_slab2: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_slab: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_brick: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_brick_cracked: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_brick_fancy: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_brick_small: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_brick_square: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_brick_triangle: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_creeper: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_paver: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_road: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_rough: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_smooth: OP
+ftbutilities.claims.block.edit.tconstruct.brownstone_stairs_tile: OP
+ftbutilities.claims.block.edit.tconstruct.casting: OP
+ftbutilities.claims.block.edit.tconstruct.channel: OP
+ftbutilities.claims.block.edit.tconstruct.clear_glass: OP
+ftbutilities.claims.block.edit.tconstruct.clear_stained_glass: OP
+ftbutilities.claims.block.edit.tconstruct.deco_ground: OP
+ftbutilities.claims.block.edit.tconstruct.deco_ground_slab: OP
+ftbutilities.claims.block.edit.tconstruct.dried_brick_stairs: OP
+ftbutilities.claims.block.edit.tconstruct.dried_clay: OP
+ftbutilities.claims.block.edit.tconstruct.dried_clay_slab: OP
+ftbutilities.claims.block.edit.tconstruct.dried_clay_stairs: OP
+ftbutilities.claims.block.edit.tconstruct.faucet: OP
+ftbutilities.claims.block.edit.tconstruct.firewood: OP
+ftbutilities.claims.block.edit.tconstruct.firewood_slab: OP
+ftbutilities.claims.block.edit.tconstruct.firewood_stairs: OP
+ftbutilities.claims.block.edit.tconstruct.glow: OP
+ftbutilities.claims.block.edit.tconstruct.lavawood_stairs: OP
+ftbutilities.claims.block.edit.tconstruct.metal: OP
+ftbutilities.claims.block.edit.tconstruct.milk: OP
+ftbutilities.claims.block.edit.tconstruct.molten_alubrass: OP
+ftbutilities.claims.block.edit.tconstruct.molten_aluminum: OP
+ftbutilities.claims.block.edit.tconstruct.molten_ardite: OP
+ftbutilities.claims.block.edit.tconstruct.molten_brass: OP
+ftbutilities.claims.block.edit.tconstruct.molten_bronze: OP
+ftbutilities.claims.block.edit.tconstruct.molten_clay: OP
+ftbutilities.claims.block.edit.tconstruct.molten_cobalt: OP
+ftbutilities.claims.block.edit.tconstruct.molten_copper: OP
+ftbutilities.claims.block.edit.tconstruct.molten_dirt: OP
+ftbutilities.claims.block.edit.tconstruct.molten_electrum: OP
+ftbutilities.claims.block.edit.tconstruct.molten_emerald: OP
+ftbutilities.claims.block.edit.tconstruct.molten_glass: OP
+ftbutilities.claims.block.edit.tconstruct.molten_gold: OP
+ftbutilities.claims.block.edit.tconstruct.molten_iron: OP
+ftbutilities.claims.block.edit.tconstruct.molten_knightslime: OP
+ftbutilities.claims.block.edit.tconstruct.molten_lead: OP
+ftbutilities.claims.block.edit.tconstruct.molten_manyullyn: OP
+ftbutilities.claims.block.edit.tconstruct.molten_nickel: OP
+ftbutilities.claims.block.edit.tconstruct.molten_obsidian: OP
+ftbutilities.claims.block.edit.tconstruct.molten_pigiron: OP
+ftbutilities.claims.block.edit.tconstruct.molten_silver: OP
+ftbutilities.claims.block.edit.tconstruct.molten_steel: OP
+ftbutilities.claims.block.edit.tconstruct.molten_stone: OP
+ftbutilities.claims.block.edit.tconstruct.molten_tin: OP
+ftbutilities.claims.block.edit.tconstruct.molten_zinc: OP
+ftbutilities.claims.block.edit.tconstruct.mudbrick_stairs: OP
+ftbutilities.claims.block.edit.tconstruct.ore: OP
+ftbutilities.claims.block.edit.tconstruct.punji: OP
+ftbutilities.claims.block.edit.tconstruct.purpleslime: OP
+ftbutilities.claims.block.edit.tconstruct.rack: OP
+ftbutilities.claims.block.edit.tconstruct.seared: OP
+ftbutilities.claims.block.edit.tconstruct.seared_furnace_controller: OP
+ftbutilities.claims.block.edit.tconstruct.seared_glass: OP
+ftbutilities.claims.block.edit.tconstruct.seared_slab2: OP
+ftbutilities.claims.block.edit.tconstruct.seared_slab: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_brick: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_brick_cracked: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_brick_fancy: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_brick_small: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_brick_square: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_brick_triangle: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_cobble: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_creeper: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_paver: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_road: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_stone: OP
+ftbutilities.claims.block.edit.tconstruct.seared_stairs_tile: OP
+ftbutilities.claims.block.edit.tconstruct.seared_tank: OP
+ftbutilities.claims.block.edit.tconstruct.slime: OP
+ftbutilities.claims.block.edit.tconstruct.slime_channel: OP
+ftbutilities.claims.block.edit.tconstruct.slime_congealed: OP
+ftbutilities.claims.block.edit.tconstruct.slime_dirt: OP
+ftbutilities.claims.block.edit.tconstruct.slime_grass: OP
+ftbutilities.claims.block.edit.tconstruct.slime_grass_tall: OP
+ftbutilities.claims.block.edit.tconstruct.slime_leaves: OP
+ftbutilities.claims.block.edit.tconstruct.slime_sapling: OP
+ftbutilities.claims.block.edit.tconstruct.slime_vine_blue: OP
+ftbutilities.claims.block.edit.tconstruct.slime_vine_blue_end: OP
+ftbutilities.claims.block.edit.tconstruct.slime_vine_blue_mid: OP
+ftbutilities.claims.block.edit.tconstruct.slime_vine_purple: OP
+ftbutilities.claims.block.edit.tconstruct.slime_vine_purple_end: OP
+ftbutilities.claims.block.edit.tconstruct.slime_vine_purple_mid: OP
+ftbutilities.claims.block.edit.tconstruct.smeltery_controller: OP
+ftbutilities.claims.block.edit.tconstruct.smeltery_io: OP
+ftbutilities.claims.block.edit.tconstruct.soil: OP
+ftbutilities.claims.block.edit.tconstruct.stone_ladder: OP
+ftbutilities.claims.block.edit.tconstruct.stone_torch: OP
+ftbutilities.claims.block.edit.tconstruct.tinker_tank_controller: OP
+ftbutilities.claims.block.edit.tconstruct.toolforge: OP
+ftbutilities.claims.block.edit.tconstruct.tooltables: OP
+ftbutilities.claims.block.edit.tconstruct.wood_rail: OP
+ftbutilities.claims.block.edit.tconstruct.wood_rail_trapdoor: OP
+ftbutilities.claims.block.edit.tconstruct.wooden_hopper: OP
 ftbutilities.claims.block.edit.thaumcraft.activator_rail: OP
 ftbutilities.claims.block.edit.thaumcraft.alembic: OP
 ftbutilities.claims.block.edit.thaumcraft.amber_block: OP
@@ -4530,6 +4651,9 @@ ftbutilities.claims.block.interact.climaticbiomesjbg.pine_planks: OP
 ftbutilities.claims.block.interact.climaticbiomesjbg.pine_sapling: OP
 ftbutilities.claims.block.interact.climaticbiomesjbg.pine_slab: OP
 ftbutilities.claims.block.interact.climaticbiomesjbg.pine_stairs: OP
+ftbutilities.claims.block.interact.conarm.armorforge: OP
+ftbutilities.claims.block.interact.conarm.armorstation: OP
+ftbutilities.claims.block.interact.conarm.soft_obsidian: OP
 ftbutilities.claims.block.interact.corvus.blazing_tulip: OP
 ftbutilities.claims.block.interact.corvus.blood_rose: OP
 ftbutilities.claims.block.interact.corvus.bloom_of_death: OP
@@ -5390,6 +5514,8 @@ ftbutilities.claims.block.interact.immersiveengineering.metal_device0: OP
 ftbutilities.claims.block.interact.immersiveengineering.metal_device1: OP
 ftbutilities.claims.block.interact.immersiveengineering.metal_ladder: OP
 ftbutilities.claims.block.interact.immersiveengineering.metal_multiblock: OP
+ftbutilities.claims.block.interact.immersiveengineering.molten_constantan: OP
+ftbutilities.claims.block.interact.immersiveengineering.molten_uranium: OP
 ftbutilities.claims.block.interact.immersiveengineering.ore: OP
 ftbutilities.claims.block.interact.immersiveengineering.sheetmetal: OP
 ftbutilities.claims.block.interact.immersiveengineering.sheetmetal_slab: OP
@@ -5797,7 +5923,15 @@ ftbutilities.claims.block.interact.naturesaura.rf_converter: OP
 ftbutilities.claims.block.interact.naturesaura.spawn_lamp: OP
 ftbutilities.claims.block.interact.naturesaura.time_changer: OP
 ftbutilities.claims.block.interact.naturesaura.wood_stand: OP
+ftbutilities.claims.block.interact.plustic.alumiteblock: OP
+ftbutilities.claims.block.interact.plustic.invarblock: OP
+ftbutilities.claims.block.interact.plustic.plustic.molten_alumite: OP
+ftbutilities.claims.block.interact.plustic.plustic.molten_invar: OP
+ftbutilities.claims.block.interact.plustic.plustic.molten_iridium: OP
+ftbutilities.claims.block.interact.plustic.plustic.molten_thaumium: OP
 ftbutilities.claims.block.interact.progressivealchemy.condensertiered_1: OP
+ftbutilities.claims.block.interact.progressivealchemy.condensertiered_2: OP
+ftbutilities.claims.block.interact.progressivealchemy.condensertiered_3: OP
 ftbutilities.claims.block.interact.projecte.alchemical_chest: OP
 ftbutilities.claims.block.interact.projecte.collector_mk1: OP
 ftbutilities.claims.block.interact.projecte.collector_mk2: OP
@@ -6656,6 +6790,114 @@ ftbutilities.claims.block.interact.soot.sulfur_ore: OP
 ftbutilities.claims.block.interact.soot.wrought_platform: OP
 ftbutilities.claims.block.interact.soot.wrought_platform_slab: OP
 ftbutilities.claims.block.interact.soot.wrought_tile: OP
+ftbutilities.claims.block.interact.tconstruct.blood: OP
+ftbutilities.claims.block.interact.tconstruct.blueslime: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_slab2: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_slab: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_brick: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_brick_cracked: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_brick_fancy: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_brick_small: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_brick_square: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_brick_triangle: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_creeper: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_paver: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_road: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_rough: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_smooth: OP
+ftbutilities.claims.block.interact.tconstruct.brownstone_stairs_tile: OP
+ftbutilities.claims.block.interact.tconstruct.casting: OP
+ftbutilities.claims.block.interact.tconstruct.channel: OP
+ftbutilities.claims.block.interact.tconstruct.clear_glass: OP
+ftbutilities.claims.block.interact.tconstruct.clear_stained_glass: OP
+ftbutilities.claims.block.interact.tconstruct.deco_ground: OP
+ftbutilities.claims.block.interact.tconstruct.deco_ground_slab: OP
+ftbutilities.claims.block.interact.tconstruct.dried_brick_stairs: OP
+ftbutilities.claims.block.interact.tconstruct.dried_clay: OP
+ftbutilities.claims.block.interact.tconstruct.dried_clay_slab: OP
+ftbutilities.claims.block.interact.tconstruct.dried_clay_stairs: OP
+ftbutilities.claims.block.interact.tconstruct.faucet: OP
+ftbutilities.claims.block.interact.tconstruct.firewood: OP
+ftbutilities.claims.block.interact.tconstruct.firewood_slab: OP
+ftbutilities.claims.block.interact.tconstruct.firewood_stairs: OP
+ftbutilities.claims.block.interact.tconstruct.glow: OP
+ftbutilities.claims.block.interact.tconstruct.lavawood_stairs: OP
+ftbutilities.claims.block.interact.tconstruct.metal: OP
+ftbutilities.claims.block.interact.tconstruct.milk: OP
+ftbutilities.claims.block.interact.tconstruct.molten_alubrass: OP
+ftbutilities.claims.block.interact.tconstruct.molten_aluminum: OP
+ftbutilities.claims.block.interact.tconstruct.molten_ardite: OP
+ftbutilities.claims.block.interact.tconstruct.molten_brass: OP
+ftbutilities.claims.block.interact.tconstruct.molten_bronze: OP
+ftbutilities.claims.block.interact.tconstruct.molten_clay: OP
+ftbutilities.claims.block.interact.tconstruct.molten_cobalt: OP
+ftbutilities.claims.block.interact.tconstruct.molten_copper: OP
+ftbutilities.claims.block.interact.tconstruct.molten_dirt: OP
+ftbutilities.claims.block.interact.tconstruct.molten_electrum: OP
+ftbutilities.claims.block.interact.tconstruct.molten_emerald: OP
+ftbutilities.claims.block.interact.tconstruct.molten_glass: OP
+ftbutilities.claims.block.interact.tconstruct.molten_gold: OP
+ftbutilities.claims.block.interact.tconstruct.molten_iron: OP
+ftbutilities.claims.block.interact.tconstruct.molten_knightslime: OP
+ftbutilities.claims.block.interact.tconstruct.molten_lead: OP
+ftbutilities.claims.block.interact.tconstruct.molten_manyullyn: OP
+ftbutilities.claims.block.interact.tconstruct.molten_nickel: OP
+ftbutilities.claims.block.interact.tconstruct.molten_obsidian: OP
+ftbutilities.claims.block.interact.tconstruct.molten_pigiron: OP
+ftbutilities.claims.block.interact.tconstruct.molten_silver: OP
+ftbutilities.claims.block.interact.tconstruct.molten_steel: OP
+ftbutilities.claims.block.interact.tconstruct.molten_stone: OP
+ftbutilities.claims.block.interact.tconstruct.molten_tin: OP
+ftbutilities.claims.block.interact.tconstruct.molten_zinc: OP
+ftbutilities.claims.block.interact.tconstruct.mudbrick_stairs: OP
+ftbutilities.claims.block.interact.tconstruct.ore: OP
+ftbutilities.claims.block.interact.tconstruct.punji: OP
+ftbutilities.claims.block.interact.tconstruct.purpleslime: OP
+ftbutilities.claims.block.interact.tconstruct.rack: OP
+ftbutilities.claims.block.interact.tconstruct.seared: OP
+ftbutilities.claims.block.interact.tconstruct.seared_furnace_controller: OP
+ftbutilities.claims.block.interact.tconstruct.seared_glass: OP
+ftbutilities.claims.block.interact.tconstruct.seared_slab2: OP
+ftbutilities.claims.block.interact.tconstruct.seared_slab: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_brick: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_brick_cracked: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_brick_fancy: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_brick_small: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_brick_square: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_brick_triangle: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_cobble: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_creeper: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_paver: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_road: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_stone: OP
+ftbutilities.claims.block.interact.tconstruct.seared_stairs_tile: OP
+ftbutilities.claims.block.interact.tconstruct.seared_tank: OP
+ftbutilities.claims.block.interact.tconstruct.slime: OP
+ftbutilities.claims.block.interact.tconstruct.slime_channel: OP
+ftbutilities.claims.block.interact.tconstruct.slime_congealed: OP
+ftbutilities.claims.block.interact.tconstruct.slime_dirt: OP
+ftbutilities.claims.block.interact.tconstruct.slime_grass: OP
+ftbutilities.claims.block.interact.tconstruct.slime_grass_tall: OP
+ftbutilities.claims.block.interact.tconstruct.slime_leaves: OP
+ftbutilities.claims.block.interact.tconstruct.slime_sapling: OP
+ftbutilities.claims.block.interact.tconstruct.slime_vine_blue: OP
+ftbutilities.claims.block.interact.tconstruct.slime_vine_blue_end: OP
+ftbutilities.claims.block.interact.tconstruct.slime_vine_blue_mid: OP
+ftbutilities.claims.block.interact.tconstruct.slime_vine_purple: OP
+ftbutilities.claims.block.interact.tconstruct.slime_vine_purple_end: OP
+ftbutilities.claims.block.interact.tconstruct.slime_vine_purple_mid: OP
+ftbutilities.claims.block.interact.tconstruct.smeltery_controller: OP
+ftbutilities.claims.block.interact.tconstruct.smeltery_io: OP
+ftbutilities.claims.block.interact.tconstruct.soil: OP
+ftbutilities.claims.block.interact.tconstruct.stone_ladder: OP
+ftbutilities.claims.block.interact.tconstruct.stone_torch: OP
+ftbutilities.claims.block.interact.tconstruct.tinker_tank_controller: OP
+ftbutilities.claims.block.interact.tconstruct.toolforge: OP
+ftbutilities.claims.block.interact.tconstruct.tooltables: OP
+ftbutilities.claims.block.interact.tconstruct.wood_rail: OP
+ftbutilities.claims.block.interact.tconstruct.wood_rail_trapdoor: OP
+ftbutilities.claims.block.interact.tconstruct.wooden_hopper: OP
 ftbutilities.claims.block.interact.thaumcraft.activator_rail: OP
 ftbutilities.claims.block.interact.thaumcraft.alembic: OP
 ftbutilities.claims.block.interact.thaumcraft.amber_block: OP
@@ -8550,6 +8792,41 @@ ftbutilities.claims.item.climaticbiomesjbg.pine_planks: ALL
 ftbutilities.claims.item.climaticbiomesjbg.pine_sapling: ALL
 ftbutilities.claims.item.climaticbiomesjbg.pine_slab: ALL
 ftbutilities.claims.item.climaticbiomesjbg.pine_stairs: ALL
+ftbutilities.claims.item.conarm.armor_plate: ALL
+ftbutilities.claims.item.conarm.armor_trim: ALL
+ftbutilities.claims.item.conarm.armorforge: ALL
+ftbutilities.claims.item.conarm.armorstation: ALL
+ftbutilities.claims.item.conarm.book: ALL
+ftbutilities.claims.item.conarm.boots: ALL
+ftbutilities.claims.item.conarm.boots_core: ALL
+ftbutilities.claims.item.conarm.chest_core: ALL
+ftbutilities.claims.item.conarm.chestplate: ALL
+ftbutilities.claims.item.conarm.frosty_soles: ALL
+ftbutilities.claims.item.conarm.gauntlet_mat: ALL
+ftbutilities.claims.item.conarm.gauntlet_mat_attack: ALL
+ftbutilities.claims.item.conarm.gauntlet_mat_reach: ALL
+ftbutilities.claims.item.conarm.gauntlet_mat_speed: ALL
+ftbutilities.claims.item.conarm.helmet: ALL
+ftbutilities.claims.item.conarm.helmet_core: ALL
+ftbutilities.claims.item.conarm.invisible_ink: ALL
+ftbutilities.claims.item.conarm.leggings: ALL
+ftbutilities.claims.item.conarm.leggings_core: ALL
+ftbutilities.claims.item.conarm.polishing_kit: ALL
+ftbutilities.claims.item.conarm.resist_mat: ALL
+ftbutilities.claims.item.conarm.resist_mat_blast: ALL
+ftbutilities.claims.item.conarm.resist_mat_fire: ALL
+ftbutilities.claims.item.conarm.resist_mat_proj: ALL
+ftbutilities.claims.item.conarm.travel_belt: ALL
+ftbutilities.claims.item.conarm.travel_belt_base: ALL
+ftbutilities.claims.item.conarm.travel_cloak: ALL
+ftbutilities.claims.item.conarm.travel_goggles: ALL
+ftbutilities.claims.item.conarm.travel_goggles_base: ALL
+ftbutilities.claims.item.conarm.travel_night: ALL
+ftbutilities.claims.item.conarm.travel_potion: ALL
+ftbutilities.claims.item.conarm.travel_sack: ALL
+ftbutilities.claims.item.conarm.travel_slowfall: ALL
+ftbutilities.claims.item.conarm.travel_sneak: ALL
+ftbutilities.claims.item.conarm.travel_soul: ALL
 ftbutilities.claims.item.corvus.blazing_tulip: ALL
 ftbutilities.claims.item.corvus.blood_rose: ALL
 ftbutilities.claims.item.corvus.bloom_of_death: ALL
@@ -8594,6 +8871,7 @@ ftbutilities.claims.item.deepmoblearning.data_model_shulker: ALL
 ftbutilities.claims.item.deepmoblearning.data_model_skeleton: ALL
 ftbutilities.claims.item.deepmoblearning.data_model_slime: ALL
 ftbutilities.claims.item.deepmoblearning.data_model_spider: ALL
+ftbutilities.claims.item.deepmoblearning.data_model_tinker_slime: ALL
 ftbutilities.claims.item.deepmoblearning.data_model_twilight_darkwood: ALL
 ftbutilities.claims.item.deepmoblearning.data_model_twilight_forest: ALL
 ftbutilities.claims.item.deepmoblearning.data_model_twilight_glacier: ALL
@@ -8629,6 +8907,7 @@ ftbutilities.claims.item.deepmoblearning.pristine_matter_shulker: ALL
 ftbutilities.claims.item.deepmoblearning.pristine_matter_skeleton: ALL
 ftbutilities.claims.item.deepmoblearning.pristine_matter_slime: ALL
 ftbutilities.claims.item.deepmoblearning.pristine_matter_spider: ALL
+ftbutilities.claims.item.deepmoblearning.pristine_matter_tinker_slime: ALL
 ftbutilities.claims.item.deepmoblearning.pristine_matter_twilight_darkwood: ALL
 ftbutilities.claims.item.deepmoblearning.pristine_matter_twilight_forest: ALL
 ftbutilities.claims.item.deepmoblearning.pristine_matter_twilight_glacier: ALL
@@ -10849,7 +11128,22 @@ ftbutilities.claims.item.naturesaura.token_sorrow: ALL
 ftbutilities.claims.item.naturesaura.token_terror: ALL
 ftbutilities.claims.item.naturesaura.wood_stand: ALL
 ftbutilities.claims.item.patchouli.guide_book: ALL
+ftbutilities.claims.item.plustic.alumiteblock: ALL
+ftbutilities.claims.item.plustic.alumiteingot: ALL
+ftbutilities.claims.item.plustic.alumitenugget: ALL
+ftbutilities.claims.item.plustic.battery_cell: ALL
+ftbutilities.claims.item.plustic.invarblock: ALL
+ftbutilities.claims.item.plustic.invaringot: ALL
+ftbutilities.claims.item.plustic.invarnugget: ALL
+ftbutilities.claims.item.plustic.laser_medium: ALL
+ftbutilities.claims.item.plustic.pipe_piece: ALL
+ftbutilities.claims.item.plustic.plustic.molten_alumite: ALL
+ftbutilities.claims.item.plustic.plustic.molten_invar: ALL
+ftbutilities.claims.item.plustic.plustic.molten_iridium: ALL
+ftbutilities.claims.item.plustic.plustic.molten_thaumium: ALL
 ftbutilities.claims.item.progressivealchemy.condensertiered_1: ALL
+ftbutilities.claims.item.progressivealchemy.condensertiered_2: ALL
+ftbutilities.claims.item.progressivealchemy.condensertiered_3: ALL
 ftbutilities.claims.item.projecte.alchemical_chest: ALL
 ftbutilities.claims.item.projecte.collector_mk1: ALL
 ftbutilities.claims.item.projecte.collector_mk2: ALL
@@ -11487,8 +11781,6 @@ ftbutilities.claims.item.railcraft.wire: ALL
 ftbutilities.claims.item.railcraft.worldlogic: ALL
 ftbutilities.claims.item.railcraft.worldspike: ALL
 ftbutilities.claims.item.railcraft.worldspike_point: ALL
-ftbutilities.claims.item.retrobees.beecomb: ALL
-ftbutilities.claims.item.retrobees.honeydrop: ALL
 ftbutilities.claims.item.roots.apothecary_pouch: ALL
 ftbutilities.claims.item.roots.assorted_seeds: ALL
 ftbutilities.claims.item.roots.aubergine: ALL
@@ -11952,6 +12244,151 @@ ftbutilities.claims.item.soot.witch_fire: ALL
 ftbutilities.claims.item.soot.wrought_platform: ALL
 ftbutilities.claims.item.soot.wrought_platform_slab: ALL
 ftbutilities.claims.item.soot.wrought_tile: ALL
+ftbutilities.claims.item.tconstruct.arrow: ALL
+ftbutilities.claims.item.tconstruct.arrow_head: ALL
+ftbutilities.claims.item.tconstruct.arrow_shaft: ALL
+ftbutilities.claims.item.tconstruct.axe_head: ALL
+ftbutilities.claims.item.tconstruct.battlesign: ALL
+ftbutilities.claims.item.tconstruct.binding: ALL
+ftbutilities.claims.item.tconstruct.bolt: ALL
+ftbutilities.claims.item.tconstruct.bolt_core: ALL
+ftbutilities.claims.item.tconstruct.book: ALL
+ftbutilities.claims.item.tconstruct.bow_limb: ALL
+ftbutilities.claims.item.tconstruct.bow_string: ALL
+ftbutilities.claims.item.tconstruct.broad_axe_head: ALL
+ftbutilities.claims.item.tconstruct.broadsword: ALL
+ftbutilities.claims.item.tconstruct.brownstone: ALL
+ftbutilities.claims.item.tconstruct.brownstone_slab2: ALL
+ftbutilities.claims.item.tconstruct.brownstone_slab: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_brick: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_brick_cracked: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_brick_fancy: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_brick_small: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_brick_square: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_brick_triangle: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_creeper: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_paver: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_road: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_rough: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_smooth: ALL
+ftbutilities.claims.item.tconstruct.brownstone_stairs_tile: ALL
+ftbutilities.claims.item.tconstruct.cast: ALL
+ftbutilities.claims.item.tconstruct.cast_custom: ALL
+ftbutilities.claims.item.tconstruct.casting: ALL
+ftbutilities.claims.item.tconstruct.channel: ALL
+ftbutilities.claims.item.tconstruct.clay_cast: ALL
+ftbutilities.claims.item.tconstruct.clear_glass: ALL
+ftbutilities.claims.item.tconstruct.clear_stained_glass: ALL
+ftbutilities.claims.item.tconstruct.cleaver: ALL
+ftbutilities.claims.item.tconstruct.cross_guard: ALL
+ftbutilities.claims.item.tconstruct.crossbow: ALL
+ftbutilities.claims.item.tconstruct.deco_ground: ALL
+ftbutilities.claims.item.tconstruct.deco_ground_slab: ALL
+ftbutilities.claims.item.tconstruct.dried_brick_stairs: ALL
+ftbutilities.claims.item.tconstruct.dried_clay: ALL
+ftbutilities.claims.item.tconstruct.dried_clay_slab: ALL
+ftbutilities.claims.item.tconstruct.dried_clay_stairs: ALL
+ftbutilities.claims.item.tconstruct.edible: ALL
+ftbutilities.claims.item.tconstruct.excavator: ALL
+ftbutilities.claims.item.tconstruct.excavator_head: ALL
+ftbutilities.claims.item.tconstruct.fancy_frame: ALL
+ftbutilities.claims.item.tconstruct.faucet: ALL
+ftbutilities.claims.item.tconstruct.firewood: ALL
+ftbutilities.claims.item.tconstruct.firewood_slab: ALL
+ftbutilities.claims.item.tconstruct.firewood_stairs: ALL
+ftbutilities.claims.item.tconstruct.fletching: ALL
+ftbutilities.claims.item.tconstruct.frypan: ALL
+ftbutilities.claims.item.tconstruct.hammer: ALL
+ftbutilities.claims.item.tconstruct.hammer_head: ALL
+ftbutilities.claims.item.tconstruct.hand_guard: ALL
+ftbutilities.claims.item.tconstruct.hatchet: ALL
+ftbutilities.claims.item.tconstruct.ingots: ALL
+ftbutilities.claims.item.tconstruct.kama: ALL
+ftbutilities.claims.item.tconstruct.kama_head: ALL
+ftbutilities.claims.item.tconstruct.knife_blade: ALL
+ftbutilities.claims.item.tconstruct.large_plate: ALL
+ftbutilities.claims.item.tconstruct.large_sword_blade: ALL
+ftbutilities.claims.item.tconstruct.lavawood_stairs: ALL
+ftbutilities.claims.item.tconstruct.longbow: ALL
+ftbutilities.claims.item.tconstruct.longsword: ALL
+ftbutilities.claims.item.tconstruct.lumberaxe: ALL
+ftbutilities.claims.item.tconstruct.materials: ALL
+ftbutilities.claims.item.tconstruct.mattock: ALL
+ftbutilities.claims.item.tconstruct.metal: ALL
+ftbutilities.claims.item.tconstruct.moms_spaghetti: ALL
+ftbutilities.claims.item.tconstruct.mudbrick_stairs: ALL
+ftbutilities.claims.item.tconstruct.nuggets: ALL
+ftbutilities.claims.item.tconstruct.ore: ALL
+ftbutilities.claims.item.tconstruct.pan_head: ALL
+ftbutilities.claims.item.tconstruct.pattern: ALL
+ftbutilities.claims.item.tconstruct.pick_head: ALL
+ftbutilities.claims.item.tconstruct.pickaxe: ALL
+ftbutilities.claims.item.tconstruct.piggybackpack: ALL
+ftbutilities.claims.item.tconstruct.punji: ALL
+ftbutilities.claims.item.tconstruct.rack: ALL
+ftbutilities.claims.item.tconstruct.rapier: ALL
+ftbutilities.claims.item.tconstruct.scythe: ALL
+ftbutilities.claims.item.tconstruct.scythe_head: ALL
+ftbutilities.claims.item.tconstruct.seared: ALL
+ftbutilities.claims.item.tconstruct.seared_furnace_controller: ALL
+ftbutilities.claims.item.tconstruct.seared_glass: ALL
+ftbutilities.claims.item.tconstruct.seared_slab2: ALL
+ftbutilities.claims.item.tconstruct.seared_slab: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_brick: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_brick_cracked: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_brick_fancy: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_brick_small: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_brick_square: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_brick_triangle: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_cobble: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_creeper: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_paver: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_road: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_stone: ALL
+ftbutilities.claims.item.tconstruct.seared_stairs_tile: ALL
+ftbutilities.claims.item.tconstruct.seared_tank: ALL
+ftbutilities.claims.item.tconstruct.shard: ALL
+ftbutilities.claims.item.tconstruct.sharpening_kit: ALL
+ftbutilities.claims.item.tconstruct.shortbow: ALL
+ftbutilities.claims.item.tconstruct.shovel: ALL
+ftbutilities.claims.item.tconstruct.shovel_head: ALL
+ftbutilities.claims.item.tconstruct.shuriken: ALL
+ftbutilities.claims.item.tconstruct.sign_head: ALL
+ftbutilities.claims.item.tconstruct.slime: ALL
+ftbutilities.claims.item.tconstruct.slime_boots: ALL
+ftbutilities.claims.item.tconstruct.slime_channel: ALL
+ftbutilities.claims.item.tconstruct.slime_congealed: ALL
+ftbutilities.claims.item.tconstruct.slime_dirt: ALL
+ftbutilities.claims.item.tconstruct.slime_grass: ALL
+ftbutilities.claims.item.tconstruct.slime_grass_tall: ALL
+ftbutilities.claims.item.tconstruct.slime_leaves: ALL
+ftbutilities.claims.item.tconstruct.slime_sapling: ALL
+ftbutilities.claims.item.tconstruct.slime_vine_blue: ALL
+ftbutilities.claims.item.tconstruct.slime_vine_blue_end: ALL
+ftbutilities.claims.item.tconstruct.slime_vine_blue_mid: ALL
+ftbutilities.claims.item.tconstruct.slime_vine_purple: ALL
+ftbutilities.claims.item.tconstruct.slime_vine_purple_end: ALL
+ftbutilities.claims.item.tconstruct.slime_vine_purple_mid: ALL
+ftbutilities.claims.item.tconstruct.slimesling: ALL
+ftbutilities.claims.item.tconstruct.smeltery_controller: ALL
+ftbutilities.claims.item.tconstruct.smeltery_io: ALL
+ftbutilities.claims.item.tconstruct.soil: ALL
+ftbutilities.claims.item.tconstruct.spaghetti: ALL
+ftbutilities.claims.item.tconstruct.stone_ladder: ALL
+ftbutilities.claims.item.tconstruct.stone_stick: ALL
+ftbutilities.claims.item.tconstruct.stone_torch: ALL
+ftbutilities.claims.item.tconstruct.sword_blade: ALL
+ftbutilities.claims.item.tconstruct.throwball: ALL
+ftbutilities.claims.item.tconstruct.tinker_tank_controller: ALL
+ftbutilities.claims.item.tconstruct.tool_rod: ALL
+ftbutilities.claims.item.tconstruct.toolforge: ALL
+ftbutilities.claims.item.tconstruct.tooltables: ALL
+ftbutilities.claims.item.tconstruct.tough_binding: ALL
+ftbutilities.claims.item.tconstruct.tough_tool_rod: ALL
+ftbutilities.claims.item.tconstruct.wide_guard: ALL
+ftbutilities.claims.item.tconstruct.wood_rail: ALL
+ftbutilities.claims.item.tconstruct.wood_rail_trapdoor: ALL
+ftbutilities.claims.item.tconstruct.wooden_hopper: ALL
 ftbutilities.claims.item.thaumcraft.activator_rail: ALL
 ftbutilities.claims.item.thaumcraft.alembic: ALL
 ftbutilities.claims.item.thaumcraft.alumentum: ALL
@@ -12770,6 +13207,7 @@ ftbutilities.claims.item.vampirism.vampire_fang: ALL
 ftbutilities.claims.item.vampirism.vampirism_flower: ALL
 ftbutilities.claims.item.vampirism.weak_human_heart: ALL
 ftbutilities.claims.item.vampirism.weapon_table: ALL
+ftbutilities.claims.item.veining.explosiveemerald: ALL
 ftbutilities.claims.item.waystones.bound_scroll: ALL
 ftbutilities.claims.item.waystones.return_scroll: ALL
 ftbutilities.claims.item.waystones.warp_scroll: ALL
@@ -12856,9 +13294,6 @@ Available command nodes:
 command.advancement
 command.appliedenergistics2.ae2
 command.astralsorcery.astralsorcery
-command.ban
-command.ban-ip
-command.banlist
 command.baubles.baubles
 command.biomesoplenty.biomesoplenty
 command.blockdata
@@ -12890,9 +13325,9 @@ command.cavern.cavern
 command.clear
 command.clone
 command.crafttweaker.crafttweaker
+command.crafttweaker.ctgui
 command.debug
 command.defaultgamemode
-command.deop
 command.difficulty
 command.dsurround.ds
 command.dummycore.tptodimension
@@ -12985,7 +13420,6 @@ command.ftbutilities.rec
 command.ftbutilities.rtp
 command.ftbutilities.sethome
 command.ftbutilities.setwarp
-command.ftbutilities.shutdown
 command.ftbutilities.spawn
 command.ftbutilities.tpa
 command.ftbutilities.tpaccept
@@ -13010,16 +13444,12 @@ command.immersiveengineering.ie.mineral.list
 command.immersiveengineering.ie.mineral.set
 command.immersiveengineering.ie.mineral.setdepletion
 command.immersivepetroleum.ip
+command.jeresources.profile
 command.journeymap.jtp
-command.kick
 command.kill
-command.list
 command.locate
 command.me
 command.naturesaura.naaura
-command.op
-command.pardon
-command.pardon-ip
 command.particle
 command.playsound
 command.projecte.projecte.clearknowledge
@@ -13030,23 +13460,19 @@ command.projecte.projecte.setemc
 command.projecte.projecte.showbag
 command.psi.psi-learn
 command.psi.psi-unlearn
+command.publish
 command.quark.quarkconfig
 command.railcraft.railcraft
 command.recipe
 command.replaceitem
-command.save-all
-command.save-off
-command.save-on
 command.say
 command.scoreboard
 command.seed
 command.setblock
-command.setidletimeout
 command.setworldspawn
 command.spawnpoint
 command.spreadplayers
 command.stats
-command.stop
 command.stopsound
 command.summon
 command.teleport
@@ -13140,6 +13566,5 @@ command.vampirism_integrations.vampirism-integrations.changelog
 command.vampirism_integrations.vampirism-integrations.loaded
 command.waila.dumphandlers
 command.weather
-command.whitelist
 command.worldborder
 command.xp

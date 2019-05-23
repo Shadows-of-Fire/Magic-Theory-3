@@ -31,10 +31,18 @@ JEI.removeAndHide(<appliedenergistics2:material:17>);
 JEI.removeAndHide(<appliedenergistics2:material:16>);
 JEI.removeAndHide(<appliedenergistics2:material:23>);
 JEI.removeAndHide(<appliedenergistics2:material:24>);
+JEI.removeAndHide(<appliedenergistics2:material:40>);
+JEI.removeAndHide(<railcraft:gear>);
+JEI.removeAndHide(<railcraft:gear:5>);
 
 recipes.addShaped(<appliedenergistics2:sky_stone_block> * 8, [[<ore:stoneBasalt>, <ore:stoneBasalt>, <ore:stoneBasalt>], [<ore:stoneBasalt>, <ebwizardry:magic_crystal>, <ore:stoneBasalt>], [<ore:stoneBasalt>, <ore:stoneBasalt>, <ore:stoneBasalt>]]);
 
 mods.thaumcraft.Infusion.registerRecipe("certus", "FIRSTSTEPS", <appliedenergistics2:material:1>, 1, [<aspect:potentia> * 25], <appliedenergistics2:material>, [<ore:dustRedstone>, <ore:dustRedstone>]);
 mods.astralsorcery.StarlightInfusion.addInfusion(<appliedenergistics2:material>, <appliedenergistics2:material:1>, false, 1.0, 200);
 
-mods.astralsorcery.Lightwell.addLiquefaction(<cavern:cave_item>, <liquid:astralsorcery.liquidstarlight>, 0.4, 12, 0);
+recipes.remove(<forestry:gear_copper>);
+recipes.remove(<forestry:gear_tin>);
+recipes.addShaped(<forestry:gear_copper>, [[null, <ore:ingotCopper>, null], [<ore:ingotCopper>, <railcraft:gear:3>, <ore:ingotCopper>], [null, <ore:ingotCopper>, null]]);
+recipes.addShaped(<forestry:gear_tin>, [[null, <ore:ingotTin>, null], [<ore:ingotTin>, <railcraft:gear:3>, <ore:ingotTin>], [null, <ore:ingotTin>, null]]);
+val bushingIngots = <ore:ingotBronze> | <ore:ingotBrass> | <ore:ingotAlubrass>;
+recipes.addShaped(<railcraft:gear:3> * 2, [[bushingIngots, bushingIngots], [bushingIngots, bushingIngots]]);

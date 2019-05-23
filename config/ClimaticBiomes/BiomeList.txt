@@ -156,6 +156,7 @@ twilightforest:dark_forest_center
 twilightforest:highlands_center
 twilightforest:thornlands
 appliedenergistics2:storage_biome
+iceandfire:glacier
 climaticbiomesjbg:subtropical_forest
 climaticbiomesjbg:tropical_forest
 climaticbiomesjbg:pine_swamp
@@ -172,5 +173,4 @@ climaticbiomesjbg:hot_mountain_trees
 climaticbiomesjbg:temperate_river
 climaticbiomesjbg:subtropical_river
 climaticbiomesjbg:tropical_river
-iceandfire:glacier
 vampirism:vampireforest

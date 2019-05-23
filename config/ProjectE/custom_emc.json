@@ -27,6 +27,50 @@
     {
       "item": "iceandfire:sea_serpent_arrow|0",
       "emc": 1000
+    },
+    {
+      "item": "projecte:item.pe_fuel|0",
+      "emc": 512
+    },
+    {
+      "item": "projecte:item.pe_fuel|1",
+      "emc": 2048
+    },
+    {
+      "item": "projecte:item.pe_fuel|2",
+      "emc": 8192
+    },
+    {
+      "item": "projecte:condenser_mk1|0",
+      "emc": 33819
+    },
+    {
+      "item": "projecte:interdiction_torch|0",
+      "emc": 9535
+    },
+    {
+      "item": "astralsorcery:itemcraftingcomponent|0",
+      "emc": 1024
+    },
+    {
+      "item": "cavern:cave_item|0",
+      "emc": 1024
+    },
+    {
+      "item": "projecte:transmutation_table|0",
+      "emc": 260
+    },
+    {
+      "item": "OD|obsidian",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:gold_nugget|0",
+      "emc": 227
+    },
+    {
+      "item": "OD|nuggetIron",
+      "emc": 28
     }
   ]
 }
