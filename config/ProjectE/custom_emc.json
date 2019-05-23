@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "item": "biomesoplenty:dirt|0",
+      "emc": 1
+    },
+    {
+      "item": "rustic:slate|0",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:arrow|0",
+      "emc": 14
+    },
+    {
+      "item": "iceandfire:dragonbone_arrow|0",
+      "emc": 2000
+    },
+    {
+      "item": "iceandfire:stymphalian_arrow|0",
+      "emc": 150
+    },
+    {
+      "item": "iceandfire:amphithere_arrow|0",
+      "emc": 150
+    },
+    {
+      "item": "iceandfire:sea_serpent_arrow|0",
+      "emc": 1000
+    }
+  ]
+}
