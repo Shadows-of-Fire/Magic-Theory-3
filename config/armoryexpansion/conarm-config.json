@@ -51,14 +51,14 @@
   },
   "thaumium": {
     "name": "thaumium",
-    "material": false,
-    "fluid": false,
-    "traits": false,
+    "material": true,
+    "fluid": true,
+    "traits": true,
     "armorOptions": {
-      "enableArmor": false,
-      "enableCore": false,
-      "enablePlates": false,
-      "enableTrim": false
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
     },
     "toolOptions": {
       "enableTool": false,
@@ -226,14 +226,14 @@
   },
   "psimetal": {
     "name": "psimetal",
-    "material": false,
-    "fluid": false,
-    "traits": false,
+    "material": true,
+    "fluid": true,
+    "traits": true,
     "armorOptions": {
-      "enableArmor": false,
-      "enableCore": false,
-      "enablePlates": false,
-      "enableTrim": false
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
     },
     "toolOptions": {
       "enableTool": false,
@@ -251,14 +251,14 @@
   },
   "psigem": {
     "name": "psigem",
-    "material": false,
+    "material": true,
     "fluid": false,
-    "traits": false,
+    "traits": true,
     "armorOptions": {
-      "enableArmor": false,
-      "enableCore": false,
-      "enablePlates": false,
-      "enableTrim": false
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
     },
     "toolOptions": {
       "enableTool": false,
@@ -326,14 +326,14 @@
   },
   "fluixcrystal_plustic": {
     "name": "fluixcrystal_plustic",
-    "material": false,
+    "material": true,
     "fluid": false,
-    "traits": false,
+    "traits": true,
     "armorOptions": {
-      "enableArmor": false,
-      "enableCore": false,
-      "enablePlates": false,
-      "enableTrim": false
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
     },
     "toolOptions": {
       "enableTool": false,
@@ -551,14 +551,14 @@
   },
   "certusquartz_plustic": {
     "name": "certusquartz_plustic",
-    "material": false,
+    "material": true,
     "fluid": false,
-    "traits": false,
+    "traits": true,
     "armorOptions": {
-      "enableArmor": false,
-      "enableCore": false,
-      "enablePlates": false,
-      "enableTrim": false
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
     },
     "toolOptions": {
       "enableTool": false,
