@@ -71,6 +71,62 @@
     {
       "item": "OD|nuggetIron",
       "emc": 28
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 256
+    },
+    {
+      "item": "rusticthaumaturgy:dust_tiny_blaze|0",
+      "emc": 64
+    },
+    {
+      "item": "ea:cluster_aluminum|0",
+      "emc": 0
+    },
+    {
+      "item": "ea:cluster_nickel|0",
+      "emc": 0
+    },
+    {
+      "item": "ea:cluster_uranium|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:cluster|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:cluster|1",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:cluster|2",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:cluster|3",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:cluster|4",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:cluster|5",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:cluster|6",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:cluster|7",
+      "emc": 0
+    },
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 0
     }
   ]
 }
