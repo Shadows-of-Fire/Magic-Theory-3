@@ -22,16 +22,15 @@ recipes.addShaped(<projecte:item.pe_matter> * 4, [[<ore:blockDiamond>, <projecte
 recipes.addShaped(<projecte:item.pe_matter:1> * 4, [[<projecte:matter_block>, <projecte:fuel_block:2>, <projecte:matter_block>], [<projecte:fuel_block:2>, <projecte:item.pe_philosophers_stone>, <projecte:fuel_block:2>], [<projecte:matter_block>, <projecte:fuel_block:2>, <projecte:matter_block>]]);
 
 recipes.remove(<projecte:collector_mk1>);
-recipes.remove(<projecte:relay_mk1>);
+mods.jei.JEI.removeAndHide(<projecte:relay_mk1>);
 mods.jei.JEI.removeAndHide(<projecte:collector_mk2>);
 mods.jei.JEI.removeAndHide(<projecte:relay_mk2>);
 mods.jei.JEI.removeAndHide(<projecte:collector_mk3>);
 mods.jei.JEI.removeAndHide(<projecte:relay_mk3>);
-recipes.addShaped(<projecte:relay_mk1>, [[<ore:obsidian>, <botania:storage:3>, <ore:obsidian>],[<ore:obsidian>, <embers:copper_cell>, <ore:obsidian>], [<ore:obsidian>, <thaumcraft:recharge_pedestal>, <ore:obsidian>]]);
 recipes.addShaped(<projecte:collector_mk1>, [[<minecraft:glowstone>, <botania:storage:3>, <minecraft:glowstone>],[<minecraft:glowstone>, <embers:charger>, <minecraft:glowstone>], [<minecraft:glowstone>, <thaumcraft:recharge_pedestal>, <minecraft:glowstone>]]);
 
 recipes.remove(<projecte:alchemical_chest>);
-recipes.addShaped(<projecte:alchemical_chest>, [[<projecte:item.pe_covalence_dust>, <projecte:item.pe_covalence_dust:1>, <projecte:item.pe_covalence_dust:2>], [<ore:stone>, <ore:gemDiamond>, <ore:stone>], [<ore:ingotManasteel>, <ironchests:iron_chest:2>, <ore:ingotManasteel>]]);
+recipes.addShaped(<projecte:alchemical_chest>, [[<projecte:item.pe_covalence_dust>, <projecte:item.pe_covalence_dust:1>, <projecte:item.pe_covalence_dust:2>], [<ore:stone>, <ore:gemDiamond>, <ore:stone>], [<ore:ingotManasteel>, <ironchest:iron_chest:2>, <ore:ingotManasteel>]]);
 
 mods.jei.JEI.removeAndHide(<projecte:item.pe_repair_talisman>);
 mods.jei.JEI.removeAndHide(<projecte:item.pe_destruction_catalyst>);

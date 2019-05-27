@@ -1,4 +1,5 @@
 import mods.jei.JEI;
+import mods.immersiveengineering.Crusher;
 
 recipes.replaceAllOccurences(<appliedenergistics2:material:23>, <forestry:thermionic_tubes:3>);
 recipes.replaceAllOccurences(<appliedenergistics2:material:22>, <forestry:thermionic_tubes:4>);
@@ -46,3 +47,7 @@ recipes.addShaped(<forestry:gear_copper>, [[null, <ore:ingotCopper>, null], [<or
 recipes.addShaped(<forestry:gear_tin>, [[null, <ore:ingotTin>, null], [<ore:ingotTin>, <railcraft:gear:3>, <ore:ingotTin>], [null, <ore:ingotTin>, null]]);
 val bushingIngots = <ore:ingotBronze> | <ore:ingotBrass> | <ore:ingotAlubrass>;
 recipes.addShaped(<railcraft:gear:3> * 2, [[bushingIngots, bushingIngots], [bushingIngots, bushingIngots]]);
+
+Crusher.addRecipe(<appliedenergistics2:material:8>, <appliedenergistics2:material:7>, 2048);
+Crusher.addRecipe(<appliedenergistics2:material:2>, <appliedenergistics2:material>, 2048);
+Crusher.addRecipe(<appliedenergistics2:material:2>, <appliedenergistics2:material:1>, 2048);
